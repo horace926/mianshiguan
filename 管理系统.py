@@ -33,7 +33,7 @@ class Myframe(wx.Frame):
    
         panel.SetSizer(vsizer)
 
-
+def test 
     
 if __name__ == '__main__':
     app=wx.App()
